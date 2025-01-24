@@ -1,2 +1,1 @@
-"# Travel_itinerary_generator" 
-"# Travel_itinerary_generator" 
+The Travel Itinerary Generator is a web-based application that helps users create personalized travel itineraries based on their preferences. Built using Python (with Flask for the API), Docker for containerization, and machine learning models for itinerary generation, the app processes user input to generate detailed travel plans. It also integrates Postman for testing API endpoints. The project is dockerized for easy deployment and includes necessary files such as CSVs for storing travel data, making it easy to set up and run in any environment.
